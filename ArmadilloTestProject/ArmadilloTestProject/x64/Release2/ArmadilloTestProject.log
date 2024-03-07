@@ -1,0 +1,132 @@
+﻿  ArmadilloTestForm.cpp
+  EigenClass.cpp
+c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits/newarp_SortEigenvalue.hpp(190): warning C4267: 'initializing': conversion from 'size_t' to 'arma::uword', possible loss of data
+  c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits/newarp_SortEigenvalue.hpp(187): note: while compiling class template member function 'std::vector<eT,std::allocator<_Ty>> arma::newarp::SortEigenvalue<std::complex<double>,6>::index(void)'
+          with
+          [
+              eT=arma::u32,
+              _Ty=arma::u32
+          ]
+  c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits/newarp_GenEigsSolver_meat.hpp(278): note: see reference to function template instantiation 'std::vector<eT,std::allocator<_Ty>> arma::newarp::SortEigenvalue<std::complex<double>,6>::index(void)' being compiled
+          with
+          [
+              eT=arma::u32,
+              _Ty=arma::u32
+          ]
+  c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits/newarp_GenEigsSolver_meat.hpp(276): note: see reference to class template instantiation 'arma::newarp::SortEigenvalue<std::complex<double>,6>' being compiled
+  c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits/newarp_GenEigsSolver_meat.hpp(270): note: while compiling class template member function 'void arma::newarp::GenEigsSolver<T,6,arma::newarp::SparseGenMatProd<T>>::sort_ritzpair(void)'
+          with
+          [
+              T=double
+          ]
+  c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits/sp_auxlib_meat.hpp(422): note: see reference to class template instantiation 'arma::newarp::GenEigsSolver<T,6,arma::newarp::SparseGenMatProd<T>>' being compiled
+          with
+          [
+              T=double
+          ]
+  c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits/sp_auxlib_meat.hpp(308): note: see reference to function template instantiation 'bool arma::sp_auxlib::eigs_gen_newarp<double,arma::SpMat<double>>(arma::Col<arma::cx_double> &,arma::Mat<arma::cx_double> &,const arma::SpBase<eT,arma::SpMat<eT>> &,const arma::uword,const char *,const T)' being compiled
+          with
+          [
+              eT=double,
+              T=double
+          ]
+  c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits/fn_eigs_gen.hpp(110): note: see reference to function template instantiation 'bool arma::sp_auxlib::eigs_gen<double,arma::SpMat<double>>(arma::Col<arma::cx_double> &,arma::Mat<arma::cx_double> &,const arma::SpBase<eT,arma::SpMat<eT>> &,const arma::uword,const char *,const T)' being compiled
+          with
+          [
+              eT=double,
+              T=double
+          ]
+  EigenClass.cpp(78): note: see reference to function template instantiation 'bool arma::eigs_gen<arma::SpMat<double>>(arma::Col<arma::cx_double> &,arma::Mat<arma::cx_double> &,const arma::SpBase<eT,arma::SpMat<eT>> &,const arma::uword,const char *,const double,const arma::arma_blas_type_only<double>::result *)' being compiled
+          with
+          [
+              eT=double
+          ]
+c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits/newarp_SortEigenvalue.hpp(190): warning C4267: 'initializing': conversion from 'size_t' to 'const arma::uword', possible loss of data
+  Test1.cpp
+  Test2.cpp
+  Test3.cpp
+c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits/newarp_SortEigenvalue.hpp(190): warning C4267: 'initializing': conversion from 'size_t' to 'arma::uword', possible loss of data
+  c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits/newarp_SortEigenvalue.hpp(187): note: while compiling class template member function 'std::vector<eT,std::allocator<_Ty>> arma::newarp::SortEigenvalue<std::complex<double>,6>::index(void)'
+          with
+          [
+              eT=arma::u32,
+              _Ty=arma::u32
+          ]
+  c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits/newarp_GenEigsSolver_meat.hpp(278): note: see reference to function template instantiation 'std::vector<eT,std::allocator<_Ty>> arma::newarp::SortEigenvalue<std::complex<double>,6>::index(void)' being compiled
+          with
+          [
+              eT=arma::u32,
+              _Ty=arma::u32
+          ]
+  c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits/newarp_GenEigsSolver_meat.hpp(276): note: see reference to class template instantiation 'arma::newarp::SortEigenvalue<std::complex<double>,6>' being compiled
+  c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits/newarp_GenEigsSolver_meat.hpp(270): note: while compiling class template member function 'void arma::newarp::GenEigsSolver<T,6,arma::newarp::SparseGenMatProd<T>>::sort_ritzpair(void)'
+          with
+          [
+              T=double
+          ]
+  c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits/sp_auxlib_meat.hpp(422): note: see reference to class template instantiation 'arma::newarp::GenEigsSolver<T,6,arma::newarp::SparseGenMatProd<T>>' being compiled
+          with
+          [
+              T=double
+          ]
+  c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits/sp_auxlib_meat.hpp(308): note: see reference to function template instantiation 'bool arma::sp_auxlib::eigs_gen_newarp<double,arma::SpMat<double>>(arma::Col<arma::cx_double> &,arma::Mat<arma::cx_double> &,const arma::SpBase<eT,arma::SpMat<eT>> &,const arma::uword,const char *,const T)' being compiled
+          with
+          [
+              eT=double,
+              T=double
+          ]
+  c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits/fn_eigs_gen.hpp(110): note: see reference to function template instantiation 'bool arma::sp_auxlib::eigs_gen<double,arma::SpMat<double>>(arma::Col<arma::cx_double> &,arma::Mat<arma::cx_double> &,const arma::SpBase<eT,arma::SpMat<eT>> &,const arma::uword,const char *,const T)' being compiled
+          with
+          [
+              eT=double,
+              T=double
+          ]
+  Test3.cpp(59): note: see reference to function template instantiation 'bool arma::eigs_gen<arma::SpMat<double>>(arma::Col<arma::cx_double> &,arma::Mat<arma::cx_double> &,const arma::SpBase<eT,arma::SpMat<eT>> &,const arma::uword,const char *,const double,const arma::arma_blas_type_only<double>::result *)' being compiled
+          with
+          [
+              eT=double
+          ]
+c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits/newarp_SortEigenvalue.hpp(190): warning C4267: 'initializing': conversion from 'size_t' to 'const arma::uword', possible loss of data
+  TestBaseClass.cpp
+  ThreeDHamiltonianClass.cpp
+ThreeDHamiltonianClass.cpp(105): warning C4101: 'xval': unreferenced local variable
+ThreeDHamiltonianClass.cpp(249): warning C4101: 'xval': unreferenced local variable
+  ThreeDHarmonicOscillator.cpp
+ThreeDHarmonicOscillator.cpp(16): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+ThreeDHarmonicOscillator.cpp(28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+ThreeDHarmonicOscillator.cpp(329): warning C4101: 'e': unreferenced local variable
+  ThreeDParticleInBox.cpp
+  TwodHamiltonianClass.cpp
+TwodHamiltonianClass.cpp(99): warning C4101: 'zval': unreferenced local variable
+TwodHamiltonianClass.cpp(99): warning C4101: 'xval': unreferenced local variable
+TwodHamiltonianClass.cpp(406): warning C4101: 'e': unreferenced local variable
+  TwodHarmonicOscillator.cpp
+TwodHarmonicOscillator.cpp(293): warning C4101: 'e': unreferenced local variable
+  TwodParticleInBox.cpp
+  Generating Code...
+c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits\arma_str.hpp(37): warning C4793: 'arma::arma_str::arma_snprintf': function compiled as native:
+  	varargs not supported under /clr
+c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits\arma_str.hpp(37): warning C4793: 'arma::arma_str::arma_snprintf': function compiled as native:
+  	varargs not supported under /clr
+c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits\arma_str.hpp(37): warning C4793: 'arma::arma_str::arma_snprintf': function compiled as native:
+  	varargs not supported under /clr
+c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits\arma_str.hpp(37): warning C4793: 'arma::arma_str::arma_snprintf': function compiled as native:
+  	varargs not supported under /clr
+c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits\arma_str.hpp(37): warning C4793: 'arma::arma_str::arma_snprintf': function compiled as native:
+  	varargs not supported under /clr
+c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits\arma_str.hpp(37): warning C4793: 'arma::arma_str::arma_snprintf': function compiled as native:
+  	varargs not supported under /clr
+c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits\arma_str.hpp(37): warning C4793: 'arma::arma_str::arma_snprintf': function compiled as native:
+  	varargs not supported under /clr
+c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits\arma_str.hpp(37): warning C4793: 'arma::arma_str::arma_snprintf': function compiled as native:
+  	varargs not supported under /clr
+c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits\arma_str.hpp(37): warning C4793: 'arma::arma_str::arma_snprintf': function compiled as native:
+  	varargs not supported under /clr
+c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits\arma_str.hpp(37): warning C4793: 'arma::arma_str::arma_snprintf': function compiled as native:
+  	varargs not supported under /clr
+c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits\arma_str.hpp(37): warning C4793: 'arma::arma_str::arma_snprintf': function compiled as native:
+  	varargs not supported under /clr
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  ArmadilloTestForm.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  ArmadilloTestProject.vcxproj -> C:\Users\jill\Documents\Visual Studio 2017\Projects\ArmadilloTestProject\x64\Release2\ArmadilloTestProject.exe
+  ArmadilloTestProject.vcxproj -> C:\Users\jill\Documents\Visual Studio 2017\Projects\ArmadilloTestProject\x64\Release2\ArmadilloTestProject.pdb (Partial PDB)

@@ -1,0 +1,9 @@
+C:\Users\jill\Documents\Visual Studio 2017\Projects\AiffLib\AiffLib\obj\Debug\AiffLib.csprojAssemblyReference.cache
+C:\Users\jill\Documents\Visual Studio 2017\Projects\AiffLib\AiffLib\obj\Debug\AiffLib.csproj.CoreCompileInputs.cache
+C:\Users\jill\Documents\Visual Studio 2017\Projects\AiffLib\AiffLib\bin\Debug\AiffLib.dll
+C:\Users\jill\Documents\Visual Studio 2017\Projects\AiffLib\AiffLib\bin\Debug\AiffLib.pdb
+C:\Users\jill\Documents\Visual Studio 2017\Projects\AiffLib\AiffLib\obj\Debug\AiffLib.dll
+C:\Users\jill\Documents\Visual Studio 2017\Projects\AiffLib\AiffLib\obj\Debug\AiffLib.pdb
+C:\Users\jill\Documents\Visual Studio 2017\Projects\AiffLib\AiffLib\bin\Debug\NAudio.dll
+C:\Users\jill\Documents\Visual Studio 2017\Projects\AiffLib\AiffLib\bin\Debug\NAudio.xml
+C:\Users\jill\Documents\Visual Studio 2017\Projects\AiffLib\AiffLib\obj\Debug\AiffLib.csproj.CopyComplete

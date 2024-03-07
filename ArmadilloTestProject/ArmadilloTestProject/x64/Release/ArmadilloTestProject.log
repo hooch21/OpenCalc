@@ -1,0 +1,52 @@
+﻿  ArmadilloTestForm.cpp
+  EigenClass.cpp
+c:\users\jill\documents\visual studio 2017\projects\armadillotestproject\armadillotestproject\eigenclass.cpp(22): warning C4244: '=': conversion from 'const arma::uword' to 'int', possible loss of data
+c:\users\jill\documents\visual studio 2017\projects\armadillotestproject\armadillotestproject\eigenclass.cpp(28): warning C4244: 'initializing': conversion from 'const arma::uword' to 'int', possible loss of data
+c:\users\jill\documents\visual studio 2017\projects\armadillotestproject\armadillotestproject\eigenclass.cpp(88): warning C4244: '=': conversion from 'const arma::uword' to 'int', possible loss of data
+c:\users\jill\documents\visual studio 2017\projects\armadillotestproject\armadillotestproject\eigenclass.cpp(90): warning C4244: 'initializing': conversion from 'const arma::uword' to 'int', possible loss of data
+c:\users\jill\documents\visual studio 2017\projects\armadillotestproject\armadillotestproject\eigenclass.cpp(92): warning C4244: 'initializing': conversion from 'const arma::uword' to 'int', possible loss of data
+  Test1.cpp
+  Test2.cpp
+  Test3.cpp
+  TestBaseClass.cpp
+  ThreeDHamiltonianClass.cpp
+c:\users\jill\documents\visual studio 2017\projects\armadillotestproject\armadillotestproject\threedhamiltonianclass.cpp(166): warning C4101: 'val': unreferenced local variable
+c:\users\jill\documents\visual studio 2017\projects\armadillotestproject\armadillotestproject\threedhamiltonianclass.cpp(298): warning C4101: 'xval': unreferenced local variable
+c:\users\jill\documents\visual studio 2017\projects\armadillotestproject\armadillotestproject\threedhamiltonianclass.cpp(442): warning C4101: 'xval': unreferenced local variable
+  ThreeDHarmonicOscillator.cpp
+c:\users\jill\documents\visual studio 2017\projects\armadillotestproject\armadillotestproject\threedharmonicoscillator.cpp(15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\jill\documents\visual studio 2017\projects\armadillotestproject\armadillotestproject\threedharmonicoscillator.cpp(27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\jill\documents\visual studio 2017\projects\armadillotestproject\armadillotestproject\threedharmonicoscillator.cpp(502): warning C4101: 'e': unreferenced local variable
+  ThreeDParticleInBox.cpp
+  TwodHamiltonianClass.cpp
+c:\users\jill\documents\visual studio 2017\projects\armadillotestproject\armadillotestproject\twodhamiltonianclass.cpp(101): warning C4101: 'zval': unreferenced local variable
+c:\users\jill\documents\visual studio 2017\projects\armadillotestproject\armadillotestproject\twodhamiltonianclass.cpp(101): warning C4101: 'xval': unreferenced local variable
+c:\users\jill\documents\visual studio 2017\projects\armadillotestproject\armadillotestproject\twodhamiltonianclass.cpp(408): warning C4101: 'e': unreferenced local variable
+  TwodHarmonicOscillator.cpp
+c:\users\jill\documents\visual studio 2017\projects\armadillotestproject\armadillotestproject\twodharmonicoscillator.cpp(293): warning C4101: 'e': unreferenced local variable
+  TwodParticleInBox.cpp
+  Generating Code...
+c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits\arma_str.hpp(37): warning C4793: 'arma::arma_str::arma_snprintf': function compiled as native:
+  	varargs not supported under /clr
+c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits\arma_str.hpp(37): warning C4793: 'arma::arma_str::arma_snprintf': function compiled as native:
+  	varargs not supported under /clr
+c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits\arma_str.hpp(37): warning C4793: 'arma::arma_str::arma_snprintf': function compiled as native:
+  	varargs not supported under /clr
+c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits\arma_str.hpp(37): warning C4793: 'arma::arma_str::arma_snprintf': function compiled as native:
+  	varargs not supported under /clr
+c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits\arma_str.hpp(37): warning C4793: 'arma::arma_str::arma_snprintf': function compiled as native:
+  	varargs not supported under /clr
+c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits\arma_str.hpp(37): warning C4793: 'arma::arma_str::arma_snprintf': function compiled as native:
+  	varargs not supported under /clr
+c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits\arma_str.hpp(37): warning C4793: 'arma::arma_str::arma_snprintf': function compiled as native:
+  	varargs not supported under /clr
+c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits\arma_str.hpp(37): warning C4793: 'arma::arma_str::arma_snprintf': function compiled as native:
+  	varargs not supported under /clr
+c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits\arma_str.hpp(37): warning C4793: 'arma::arma_str::arma_snprintf': function compiled as native:
+  	varargs not supported under /clr
+c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits\arma_str.hpp(37): warning C4793: 'arma::arma_str::arma_snprintf': function compiled as native:
+  	varargs not supported under /clr
+c:\users\jill\documents\visual studio 2017\common\includes\armadillo\include\armadillo_bits\arma_str.hpp(37): warning C4793: 'arma::arma_str::arma_snprintf': function compiled as native:
+  	varargs not supported under /clr
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  ArmadilloTestProject.vcxproj -> C:\Users\jill\Documents\Visual Studio 2017\Projects\ArmadilloTestProject\x64\Release\ArmadilloTestProject.exe
